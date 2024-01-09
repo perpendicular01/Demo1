@@ -7,5 +7,5 @@ Study::Study()
 
 Study::~Study()
 {
-    //dtor
+    cout << "rohan";
 }
